@@ -2,7 +2,7 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/bytecrypt.svg)](https://pypi.org/project/bytecrypt/)
 [![Python versions](https://img.shields.io/pypi/pyversions/bytecrypt.svg)](https://pypi.org/project/bytecrypt/)
-[![CI](https://github.com/milarditch/bytecrypt/actions/workflows/ci.yml/badge.svg)](https://github.com/milarditch/bytecrypt/actions/workflows/ci.yml)
+[![CI](https://github.com/smilardic/bytecrypt/actions/workflows/ci.yml/badge.svg)](https://github.com/smilardic/bytecrypt/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PyPI Downloads](https://static.pepy.tech/personalized-badge/bytecrypt?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/bytecrypt)
 
@@ -67,8 +67,8 @@ If you do not have Python, download the latest single file executable:
 
 | Platform | Download |
 | --- | --- |
-| Windows | [bytecrypt.exe](https://github.com/milarditch/bytecrypt/releases/latest/download/bytecrypt.exe) |
-| Linux | [bytecrypt](https://github.com/milarditch/bytecrypt/releases/latest/download/bytecrypt) |
+| Windows | [bytecrypt.exe](https://github.com/smilardic/bytecrypt/releases/latest/download/bytecrypt.exe) |
+| Linux | [bytecrypt](https://github.com/smilardic/bytecrypt/releases/latest/download/bytecrypt) |
 
 ## Quick start
 
@@ -252,7 +252,7 @@ bytecrypt --reencrypt -dir my/directory -r -p mypassword
 ## Development
 
 ```sh
-git clone https://github.com/milarditch/bytecrypt
+git clone https://github.com/smilardic/bytecrypt
 cd bytecrypt
 python -m pip install -e ".[test]"
 python -m pytest                   # run the test suite

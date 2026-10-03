@@ -192,7 +192,7 @@ Add a new vector only when the default *write* format changes.
 ## References
 
 - **PyPI:** https://pypi.org/project/bytecrypt/
-- **GitHub:** https://github.com/milarditch/bytecrypt
+- **GitHub:** https://github.com/smilardic/bytecrypt
 - **Format spec:** [FORMAT.md](FORMAT.md)
 - **Changelog:** [CHANGELOG.md](CHANGELOG.md)
 - **Security:** [SECURITY.md](SECURITY.md)

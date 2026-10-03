@@ -12,7 +12,7 @@
 Do not open a public issue for a security problem.
 
 Use the private report form:
-[Report a vulnerability](https://github.com/milarditch/bytecrypt/security/advisories/new).
+[Report a vulnerability](https://github.com/smilardic/bytecrypt/security/advisories/new).
 Only you and the maintainer can read the report.
 
 Include this information:
